@@ -1,0 +1,44 @@
+body{
+    background: #5272EF;
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+.maindiv{
+    height: 250px;
+    width: 500px;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 5px 20px;
+}
+.heading-area{
+    text-align: center;
+    padding-top: 10px;
+}
+.mainquotes{
+    height: 50px;
+    
+}
+.socialmeadia{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+.icon>a>i{
+    color: #5272EF;
+    font-size: 23px;
+    margin-right: 10px;
+    padding: 5px;
+}
+.button>button{
+    padding: 7px 20px;
+    background-color: #5272EF;
+    color: #fff;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    font-weight: 700;
+}
